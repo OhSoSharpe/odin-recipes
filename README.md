@@ -1,2 +1,2 @@
 # odin-recipes
-"Hello Odin!"
+"This is my first project attepting to create a simple website. I am strictly working with html at this point, but will attempt to use CSS later to improve the visual quality of the website."
